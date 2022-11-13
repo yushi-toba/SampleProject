@@ -12,9 +12,6 @@ namespace SampleProject
 {
     public partial class Form1 : Form
     {
-        /// <summary>
-        /// コンストラクタ
-        /// </summary>
         public Form1()
         {
             InitializeComponent();
