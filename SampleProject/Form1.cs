@@ -28,6 +28,7 @@ namespace SampleProject
         private void Form1_Load(object sender, EventArgs e)
         {
             OutputConsoleLog("aaa");
+            OutputConsoleLog("bbb");
         }
 
         /// <summary>
